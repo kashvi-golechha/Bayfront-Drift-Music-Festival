@@ -43,7 +43,7 @@ My team and I designed and shipped a full-stack data application end-to-end:
 ## Database Schema
 
 The database is fully normalized with 17 tables across 8 domains. Domain tables feed a 
-shared attendee layer through dedicated bridge tables — no repeated groups, no partial 
+shared attendee layer through dedicated bridge tables, no repeated groups, no partial 
 dependencies.
 
 ## App Features
