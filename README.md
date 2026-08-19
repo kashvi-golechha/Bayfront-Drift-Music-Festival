@@ -66,13 +66,13 @@ Columbia University — Relational Databases & SQL for Analytics
 <img width="1470" alt="My Plan" src="https://github.com/user-attachments/assets/a50b26c5-bc5a-4872-a2da-0500d78bf55e" />
 
 **Plan Weekend — Food & Activities**
-<img width="1470" alt="Plan Weekend" src="https://github.com/user-attachments/assets/8746225f-5f6d-42b8-91cd-ed88b9e874f1" />
+<img width="1470" alt="Plan Weekend" src="https://github.com/user-attachments/assets/3efcde6b-4b14-4e84-984f-1816fa32795c" />
 
 **My Passport — Badges**
 <img width="1470" alt="My Passport" src="https://github.com/user-attachments/assets/6132472a-5853-4dcc-bb13-4c06b278c32c" />
 
-**My Passport — Taste Explorer Badge Detail**
-<img width="1470" alt="Taste Explorer" src="https://github.com/user-attachments/assets/3efcde6b-4b14-4e84-984f-1816fa32795c" />
+**My Passport — Taste Explorer Detail**
+<img width="1470" alt="Taste Explorer" src="https://github.com/user-attachments/assets/192ab57f-873b-4973-be8f-33d92dd87145" />
 
-**My Passport — Share Passport**
+**My Passport — Share**
 <img width="1470" alt="Share Passport" src="https://github.com/user-attachments/assets/192ab57f-873b-4973-be8f-33d92dd87145" />
