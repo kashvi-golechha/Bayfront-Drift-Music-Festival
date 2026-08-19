@@ -63,7 +63,7 @@ Columbia University — Relational Databases & SQL for Analytics
 <img width="1470" alt="Home" src="https://github.com/user-attachments/assets/f889ce4a-de57-4b44-acd8-53a5f094cc3b" />
 
 **My Plan — Budget & Itinerary**
-<img width="1470" alt="My Plan" src="https://github.com/user-attachments/assets/8746225f-5f6d-42b8-91cd-ed88b9e874f1" />
+<img width="1470" alt="My Plan" src="https://github.com/user-attachments/assets/192ab57f-873b-4973-be8f-33d92dd87145" />
 
 **My Passport — Badges**
 <img width="1470" alt="My Passport" src="https://github.com/user-attachments/assets/6132472a-5853-4dcc-bb13-4c06b278c32c" />
@@ -75,4 +75,4 @@ Columbia University — Relational Databases & SQL for Analytics
 <img width="1470" alt="Taste Explorer" src="https://github.com/user-attachments/assets/a50b26c5-bc5a-4872-a2da-0500d78bf55e" />
 
 **My Passport — Share**
-<img width="1470" alt="Share Passport" src="https://github.com/user-attachments/assets/192ab57f-873b-4973-be8f-33d92dd87145" />
+<img width="1470" alt="Share Passport" src="https://github.com/user-attachments/assets/8746225f-5f6d-42b8-91cd-ed88b9e874f1" />
